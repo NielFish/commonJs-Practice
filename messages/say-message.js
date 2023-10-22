@@ -5,3 +5,7 @@ function sayMessage(message) {
 }
 
 sayMessage(helloMessage);
+
+module.exports = {
+    sayMessage
+}
